@@ -12,7 +12,7 @@ Test your timing and precision in this simple yet addictive web-based stacking g
 ## How to Play / Usage:
 
 - **Option 1:**
-1. Go to https://imamwahyudime.github.io/youtube-custom-looper/
+1. Go to https://imamwahyudime.github.io/precise-stacker-webgame/
 2. Enjoy!
 
 - **Option 2:**
